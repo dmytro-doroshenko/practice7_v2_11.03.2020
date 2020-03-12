@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d0b26b6-4f4f-4bf3-9a1a-97454c5feae1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Nav_bar/NavBarElem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Nav_bar/Nav_bar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Nav_bar/Nav_bar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Post/Post.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Post/Post.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Nav_bar/NavBarElem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Nav_bar/NavBarElem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Nav_bar/Nav_bar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Nav_bar/Nav_bar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Post/Post.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Post/Post.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,17 +65,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583946409993</updated>
-      <workItem from="1583946411839" duration="14337000" />
+      <workItem from="1583946411839" duration="17217000" />
     </task>
+    <task id="LOCAL-00001" summary="first update">
+      <created>1584011126936</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584011126936</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first update" />
+    <option name="LAST_COMMIT_MESSAGE" value="first update" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1584011122089">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584011122089" />
     <state x="802" y="413" key="Github.ShareDialog" timestamp="1584011086587">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="802" y="413" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584011086587" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1584011130910">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584011130910" />
   </component>
 </project>

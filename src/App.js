@@ -29,9 +29,9 @@ class App extends Component {
         return post
     };
 
-    setPostAsRead = () => {
-        let {posts, activePostID} = this.state;
-        let post = this.activePost(activePostID);
+    setPostAsRead = (id) => {
+        let {posts} = this.state;
+        let post = this.activePost(id);
         if (post && !post.isRead) {
             post.isRead = true;
             this.setState({posts})

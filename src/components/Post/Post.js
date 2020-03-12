@@ -3,13 +3,13 @@ import './Post.css';
 
 class PostBody extends Component {
 
-    componentWillUpdate(nextProps, nextState, nextContext) {
+    componentDidUpdate(prevProps, prevState, snapshot) {
 
         const {id, handlerFunc} = this.props;
 
         clearTimeout(this.timer);
 
-        if (id !== nextProps.id) {
+        if (id !== prevProps.id) {
             this.timer = setTimeout(() => {
                 handlerFunc(id);
             }, 2000)

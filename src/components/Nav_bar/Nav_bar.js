@@ -10,7 +10,7 @@ function NavBar ({list, change, readTrue}) {
 
     const setRead = (id) => {
         readTrue(id)
-    }
+    };
 
     return (
         <div className='navigation'>

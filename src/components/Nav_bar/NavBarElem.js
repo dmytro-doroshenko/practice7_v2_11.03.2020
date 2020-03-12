@@ -4,7 +4,7 @@ import './Nav_bar.css';
 function NavBarElem({post, activeID, read}) {
 
 
-    const onClickHandler = (id) => {
+    const onClickHandler = (id, e) => {
         activeID(id);
     };
 
@@ -13,7 +13,7 @@ function NavBarElem({post, activeID, read}) {
     };
 
     return(
-            <a href='#' className='list_item' key={post.id} title={post.title} onClick={onClickHandler.bind(this, post.id)} onDoubleClick={onDoubleClickHandler.bind(this, post.id)}>{post.isRead ? '' : <span className='red'>Unread</span>} {post.id}. {post.title}</a>
+            <a href='#' className='list_item' key={post.id} title={post.title} onDoubleClick={onDoubleClickHandler.bind(this, post.id)} onClick={onClickHandler.bind(this, post.id)} >{post.isRead ? '' : <span className='red'>Unread</span>} {post.id}. {post.title}</a>
         )
 }
 
