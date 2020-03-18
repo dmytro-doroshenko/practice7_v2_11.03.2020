@@ -3,10 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="9d0b26b6-4f4f-4bf3-9a1a-97454c5feae1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Nav_bar/NavBarElem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Nav_bar/NavBarElem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Nav_bar/Nav_bar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Nav_bar/Nav_bar.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Nav_bar/Nav_bar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Nav_bar/Nav_bar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Post/Post.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Post/Post.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YzXUAlGKGy4jJEtXlW1VjEgXLk" />
@@ -34,11 +39,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Shelf.Project.Settings" />
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -66,6 +76,9 @@
       <option name="presentableId" value="Default" />
       <updated>1583946409993</updated>
       <workItem from="1583946411839" duration="17217000" />
+      <workItem from="1584539673307" duration="4538000" />
+      <workItem from="1584548261329" duration="533000" />
+      <workItem from="1584557570049" duration="3286000" />
     </task>
     <task id="LOCAL-00001" summary="first update">
       <created>1584011126936</created>
@@ -74,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584011126936</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first update">
+      <created>1584540812677</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584540812677</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,14 +105,31 @@
     <option name="LAST_COMMIT_MESSAGE" value="first update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1584011122089">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="588" y="214" width="800" height="677" key="#ESLint" timestamp="1584543566066">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="214" width="800" height="677" key="#ESLint/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584543566066" />
+    <state x="662" y="226" width="652" height="653" key="#npm_start" timestamp="1584539868272">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="662" y="226" width="652" height="653" key="#npm_start/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584539868272" />
+    <state x="632" y="98" width="949" height="982" key="CommitChangelistDialog2" timestamp="1584540812410">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584011122089" />
+    <state x="632" y="98" width="949" height="982" key="CommitChangelistDialog2/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584540812410" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1584548792098">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584548792098" />
     <state x="802" y="413" key="Github.ShareDialog" timestamp="1584011086587">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="802" y="413" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584011086587" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1584540777729">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584540777729" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1584011130910">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
