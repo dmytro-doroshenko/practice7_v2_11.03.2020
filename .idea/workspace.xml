@@ -134,11 +134,12 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="662" y="226" width="652" height="653" key="#npm_start/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584539868272" />
-    <state x="632" y="98" width="949" height="982" key="CommitChangelistDialog2" timestamp="1584560984471">
+    <state x="632" y="98" width="949" height="982" key="CommitChangelistDialog2" timestamp="1584567349751">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584011122089" />
     <state x="632" y="98" width="949" height="982" key="CommitChangelistDialog2/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584560984471" />
+    <state x="632" y="98" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1584567349751" />
     <state x="167" y="125" width="1653" height="855" key="DiffContextDialog" timestamp="1584561423690">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -152,35 +153,44 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="802" y="413" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584011086587" />
-    <state width="1830" height="278" key="GridCell.Tab.0.bottom" timestamp="1584561980413">
+    <state width="1830" height="278" key="GridCell.Tab.0.bottom" timestamp="1584567387043">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1830" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584561980413" />
-    <state width="1830" height="278" key="GridCell.Tab.0.center" timestamp="1584561980413">
+    <state width="1830" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1584567387043" />
+    <state width="1830" height="278" key="GridCell.Tab.0.center" timestamp="1584567387043">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1830" height="278" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584561980413" />
-    <state width="1830" height="278" key="GridCell.Tab.0.left" timestamp="1584561980413">
+    <state width="1830" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1584567387043" />
+    <state width="1830" height="278" key="GridCell.Tab.0.left" timestamp="1584567387042">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1830" height="278" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584561980413" />
-    <state width="1830" height="278" key="GridCell.Tab.0.right" timestamp="1584561980413">
+    <state width="1830" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1584567387042" />
+    <state width="1830" height="278" key="GridCell.Tab.0.right" timestamp="1584567387043">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1830" height="278" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584561980413" />
+    <state width="1830" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1584567387043" />
     <state x="482" y="187" key="SettingsEditor" timestamp="1584540777729">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="482" y="187" key="SettingsEditor/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584540777729" />
-    <state x="600" y="283" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1584561380187">
+    <state x="600" y="283" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1584567362998">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584011130910" />
     <state x="600" y="283" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584561380187" />
+    <state x="600" y="283" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1584567362998" />
     <state x="167" y="125" width="1653" height="855" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1584561423690">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="167" y="125" width="1653" height="855" key="com.intellij.dvcs.ui.CompareBranchesDialog/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584561423690" />
+    <state x="657" y="205" width="662" height="695" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584567474032">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="657" y="205" width="662" height="695" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1584567474032" />
     <state x="712" y="246" width="552" height="612" key="git4idea.branch.GitSmartOperationDialog" timestamp="1584561299524">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>

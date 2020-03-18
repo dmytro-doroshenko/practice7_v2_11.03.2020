@@ -48,7 +48,7 @@ function NavBar ({list, change, readTrue}) {
                 : 'Loading...'
             }
             <div>
-                <p className='p-10px text-grey text-center'>Shown {leftBorder + 1} to {rightBorder < 100 ? rightBorder : 100} of {list.length}</p>
+                <p className='p-10px text-grey text-center'>Shown {leftBorder + 1} to {rightBorder < list.length ? rightBorder : list.length} of {list.length}</p>
                 <div className='d-flex space-around p-10px'>
                     {leftBorder > 0 && <button className='btn' onClick={prev}>Prev. 12</button>}
                     {rightBorder <= list.length &&
