@@ -47,17 +47,19 @@ function NavBar ({list, change, readTrue}) {
                     })
                 : 'Loading...'
             }
-            <div className='d-flex space-around p-10px'>
-                {leftBorder > 0 && <button className='btn' onClick={prev}>Prev. 12</button>}
-                {rightBorder <= list.length &&
-                    <Fragment>
-                        <button className='btn' onClick={more} >More {list.length - rightBorder < 12 ? list.length - rightBorder : '12'}</button>
-                        <button className='btn' onClick={next}>Next {list.length - rightBorder < 12 ? list.length - rightBorder : '12'}</button>
-                    </Fragment>
-
-                }
-
+            <div>
+                <p className='p-10px text-grey text-center'>Shown {leftBorder + 1} to {rightBorder < 100 ? rightBorder : 100} of {list.length}</p>
+                <div className='d-flex space-around p-10px'>
+                    {leftBorder > 0 && <button className='btn' onClick={prev}>Prev. 12</button>}
+                    {rightBorder <= list.length &&
+                        <Fragment>
+                            <button className='btn' onClick={more} >More {list.length - rightBorder < 12 ? list.length - rightBorder : '12'}</button>
+                            <button className='btn' onClick={next}>Next {list.length - rightBorder < 12 ? list.length - rightBorder : '12'}</button>
+                        </Fragment>
+                    }
+                </div>
             </div>
+
         </div>
     );
 

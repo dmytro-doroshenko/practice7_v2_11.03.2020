@@ -27,6 +27,10 @@
     display: flex;
 }
 
+.d-block{
+    display: block;
+}
+
 .space-around{
     justify-content: space-around;
 }
@@ -38,4 +42,12 @@
 .btn {
     padding: 4px;
 
+}
+
+.text-grey{
+    color: grey;
+}
+
+.text-center {
+    text-align: center;
 }
